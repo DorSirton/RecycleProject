@@ -58,3 +58,11 @@ Total_Worth_History float,
 Num_Of_Collected_Points int
 )
 go
+
+create table Bottles(
+Id int identity (1,1) primary key,
+[Category_Id] int foreign key references Bottle_Categories(Id) not null,
+[Collector_Id] int foreign key references Collectors(Id),
+[Recycler_Id] int foreign key references Recyclers(Id),
+)
+go
