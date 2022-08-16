@@ -1,0 +1,67 @@
+﻿@model RecyclingProject.Data.Model.Collector;
+
+@{
+    ViewData["Title"] = "CollectorDetails";
+}
+
+<div class="regform">
+    <h1>Hello @Model.FirstName @Model.LastName</h1>
+</div>
+
+<div class="mane">
+    <hr />
+
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.FirstName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.FirstName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.LastName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.LastName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Tel)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Tel)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CurrentNumOfBottles)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Bottles.Count)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CurrentWorth)
+        </dt>
+        <dd class="col-sm-10">
+            @String.Format("{0:0.##}", @ViewBag.CurrentWorth)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.TotalHistoryNumOfBottles)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.TotalHistoryNumOfBottles)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.TotalWorthHistory)
+        </dt>
+        <dd class="col-sm-10">
+            @String.Format("{0:0.##}", Model.TotalWorthHistory)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Address)
+        </dt>
+        <dd class="col-sm-10">
+            @ViewBag.Street, @ViewBag.City, @ViewBag.Country
+        </dd>
+    </dl>
+    <div>
+        <button class="my-btn"><a asp-action="AddBottles" asp-route-collectorId="@Model.Id">Add Bottles</a></button>
+    </div>
+</div>

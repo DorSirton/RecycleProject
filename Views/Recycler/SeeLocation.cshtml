@@ -1,0 +1,42 @@
+﻿@model RecyclingProject.Data.Model.Collector
+
+@{
+    ViewData["Title"] = "SeeLocation";
+}
+<style>
+
+    #map{
+        height:420px;
+        width:800px;
+    }
+    .reg{
+    background-color:rgba(0,0,0,0.6);
+    margin:auto;
+    color:#ffffff;
+    padding:10px 0px 10px 0px;
+    text-align:center;
+    border-radius: 15px 15px 0px 0px;
+    max-width:800px;
+    margin:auto;
+    }
+
+</style>
+
+<div class="reg">
+    <button class="my-btn"><a asp-action="GoCollect" asp-route-recyclerId="@ViewBag.recyclerId">Return</a></button>
+       <h1> @Model.FirstName @Model.LastName location.</h1>
+       <div id="map"></div>
+
+
+    <script>
+      let map;
+      function initMap(){
+          map = new google.maps.Map(document.getElementById('map'),{
+                center: {lat: @Model.Address.Cordin_lat , lng: @Model.Address.Cordin_lng},
+                zoom: 16
+          })
+      }
+    </script>
+      <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBwV7e-NLS28y0Ol7dwqL_y9p1D8mekq18&callback=initMap" async defer>
+      </script>
+</div>

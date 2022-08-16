@@ -1,0 +1,129 @@
+﻿@{
+    ViewData["Title"] = "RegisterPage";
+}
+
+<h1>RegisterPage</h1>
+
+
+<form>
+    <div>
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-2">
+                <label>Type</label>
+            </dt>
+            <dd class="col-sm-10">
+                <ul>
+                    <li>
+                        <label for="collector">Collector</label>
+                        <input type="checkbox" id="collector" placeholder="Collector" />
+                    </li>
+                    <li>
+                        <label for="recycler">Recycler</label>
+                        <input type="checkbox" id="recycler" placeholder="Recycler" />
+                    </li>
+                </ul>
+            </dd>
+            <dt class="col-sm-2">
+                <label>First Name</label>
+            </dt>
+            <dd class="col-sm-10">
+                <input type="text" placeholder="First Name" />
+            </dd>
+            <dt class="col-sm-2">
+                <label>Last Name</label>
+            </dt>
+            <dd class="col-sm-10">
+                <input type="text" placeholder="Last Name" />
+            </dd>
+            <dt class="col-sm-2">
+                <label>Telephone</label>
+            </dt>
+            <dd class="col-sm-10">
+                <input type="tel" placeholder="Telephone number" />
+            </dd>
+            <dt class="col-sm-2">
+                <label>Country</label>
+            </dt>
+            <dd class="col-sm-10">
+                <select id="CountriesList" asp-items="@ViewBag.Countries">
+                    <option>--Please choose country--</option>
+                </select>
+            </dd>
+            <dt class="col-sm-2">
+                <label>City</label>
+            </dt>
+            <dd class="col-sm-10">
+                <select id="CitiesList">
+                    <option value="-1">--Please choose City--</option>
+                </select>
+            </dd>
+            <dt class="col-sm-2">
+                <label>street</label>
+            </dt>
+            <dd class="col-sm-10">
+                <select id="StreetsList">
+                    <option value="-1">--Please choose Street--</option>
+                </select>
+            </dd>
+        </dl>
+    </div>
+</form>
+@section Scripts{
+<script type="text/javascript">
+     $(document).ready(function(){
+        $("#CountriesList").change(function(){
+            $("#CitiesList").empty();
+            $("#StreetsList").empty();
+            $.ajax({
+                type: 'Get',
+                url: '@Url.Action("LoadCities")',
+                dataType: 'json',
+                data: {countryId: $("#CountriesList").val()},
+
+                success: function(cities){
+                    $("#CitiesList").append('<option value="'+ -1 +'">' + "Select city" + '</option>');
+
+                    $.each(cities, function(i, city){
+                         $("#CitiesList").append('<option value="'+ city.value +'">' + city.text + '</option>');
+
+                    });
+                },
+                error: function(ex){
+                   console.log(ex)
+                }
+
+            });
+            return false;
+        })
+    });
+</script>
+
+<script type="text/javascript">
+     $(document).ready(function(){
+        $("#CitiesList").change(function(){
+            $("#StreetsList").empty();
+            $.ajax({
+                type: 'Get',
+                url: '@Url.Action("LoadStreets")',
+                dataType: 'json',
+                data: {cityId: $("#CitiesList").val()},
+
+                success: function(streets){
+                    $("#StreetsList").append('<option value="'+ -1 +'">' + "Select street" + '</option>');
+
+                    $.each(streets, function(i, street){
+                         $("#StreetsList").append('<option value="'+ street.value +'">' + street.text + '</option>');
+                    });
+                },
+                error: function(ex){
+                   console.log(ex)
+                }
+
+            });
+            return false;
+        })
+    });
+</script>
+
+}

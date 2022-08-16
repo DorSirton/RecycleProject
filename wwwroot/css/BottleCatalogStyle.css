@@ -1,0 +1,118 @@
+﻿*{
+    margin:0;
+    padding:0;
+}
+
+.my-btn {
+    margin-top: 10px;
+    background-color: mediumaquamarine;
+    color: white;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 10px 17px;
+    border-radius: 30px;
+    box-shadow: 0px 0px 5px #000, 0px 0px 15px #858585;
+    margin-right: 120px;
+}
+
+    .my-btn:hover {
+        transform: scale(1.1);
+        border: 2px solid;
+        cursor: pointer;
+    }
+
+    .my-btn a {
+        text-decoration: none;
+        color: white;
+        font-weight: bold;
+    }
+
+h1{
+    color:black;
+    font-weight:bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.hero{
+    width:100%;
+    height:100vh;
+    overflow:hidden;
+}
+    .hero .carousel {
+
+        width:300px;
+        margin:100px auto 0;
+        overflow:visible;
+    }
+
+.card {
+    height: 500px;
+    width: 420px;
+    padding: 25px 30px;
+    background: black;
+    border-radius: 20px;
+    margin: 20px;
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+    color: white;
+    align-items:center;
+}
+
+    .card h5 {
+        color: mediumaquamarine;
+        font-size: 25px;
+        margin-bottom: 15px;
+        font-weight: bold;
+    }
+
+
+.card span {
+    font-size: 17px;
+    font-weight: bold;
+    color: mediumaquamarine;
+}
+    .card a {
+        margin-top :10px;
+        background-color:mediumaquamarine;
+        color: white;
+        text-decoration: none;
+        border: 2px solid transparent;
+        font-weight: bold;
+        padding: 10px 17px;
+        border-radius: 30px;
+        box-shadow: 0px 0px 5px #000, 0px 0px 15px #858585;
+    }
+        .card a:hover {
+            transform: scale(1.1);
+            border: 2px solid;
+            cursor: pointer;
+        }
+
+.parentImage {
+    height: 200px;
+    width: 200px;
+}
+
+.form{
+    margin-top: 130px;
+}
+
+.iiinput{
+    background-color:mediumaquamarine;
+    border:none;
+}
+
+h3 {
+    position: relative;
+    font-size: 4em;
+    font-weight: 900;
+    color: white;
+    z-index: 1;
+    overflow: hidden;
+}
+
+
+
+    

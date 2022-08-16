@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewData["Title"] = "Congratulations";
+}
+
+<div class="text-center">
+<h1>Congratulations!</h1>
+
+<h2>@ViewBag.Result Has been deposited to your account.</h2>
+<h3>Thank you for your cooperation and the consideration to the enviroment!</h3>
+<button class="my-btn"><a asp-action="RecyclerDetails" asp-route-recyclerId="@ViewBag.Id">Return to details.</a></button>
+</div>
+

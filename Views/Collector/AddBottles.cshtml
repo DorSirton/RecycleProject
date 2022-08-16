@@ -1,0 +1,50 @@
+﻿@model IEnumerable<RecyclingProject.Data.Model.BottleCategory>
+
+@{
+    ViewData["Title"] = "AddBottles";
+}
+
+<link rel="stylesheet" href="~/css/jquery.flipster.min.css" />
+<link rel="stylesheet" href="/css/BottleCatalogStyle.css" />
+<div class="text-center">
+<h3>Add your collected bottles to your collection </h3>
+<button class="my-btn"><a asp-action="CollectorDetails" asp-route-collectorId="@ViewBag.CollectorId">Return To Details</a></button>
+</div>
+<div class="hero">
+        <div class="carousel">
+            <ul>
+            @foreach (var item in Model)
+            {
+                <li>
+                    <div class="card">
+                        <h5>@Html.DisplayFor(modelItem => item.Name)</h5>
+                        <h6>Recycle worth: <span>@item.RecyclePrice</span></h6>
+                        <div class="parentImage"><span><img src="@item.PhotoUrl" /></span></div>
+                        <div> 
+                            <span>
+                                <form class="form" method="post" asp-action="AddBottles" asp-route-categoryId="@item.Id" asp-route-collectorId="@ViewBag.CollectorId">
+                                <input name="numOfBottles" placeholder=0 type=number min=0 max=50>
+                                <a class="my-btn"><input class="iiinput" type="submit" value="Add Bottles"></a>
+                                </form>
+                            </span>
+                        </div>
+                    </div>
+                </li>
+            }
+            </ul>
+        </div>
+</div>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="~/js/jquery.flipster.min.js"></script>
+    <script> $('.carousel').flipster({
+        style:'carousel',
+        spacing: -0.3,
+    });</script>
+
+
+
+
+
+
+
+
