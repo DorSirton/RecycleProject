@@ -1,0 +1,70 @@
+C:\Users\PC\Desktop\RecyclingProject.Client\RecyclingProject.Data\bin\Debug\net6.0\RecyclingProject.Data.deps.json
+C:\Users\PC\Desktop\RecyclingProject.Client\RecyclingProject.Data\bin\Debug\net6.0\RecyclingProject.Data.runtimeconfig.json
+C:\Users\PC\Desktop\RecyclingProject.Client\RecyclingProject.Data\bin\Debug\net6.0\RecyclingProject.Data.dll
+C:\Users\PC\Desktop\RecyclingProject.Client\RecyclingProject.Data\bin\Debug\net6.0\RecyclingProject.Data.pdb
+C:\Users\PC\Desktop\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\RecyclingProject.Data.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\RecyclingProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\RecyclingProject.Data.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\RecyclingProject.Data.AssemblyInfo.cs
+C:\Users\PC\Desktop\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\RecyclingProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\RecyclingProject.Data.dll
+C:\Users\PC\Desktop\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\refint\RecyclingProject.Data.dll
+C:\Users\PC\Desktop\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\RecyclingProject.Data.pdb
+C:\Users\PC\Desktop\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\RecyclingProject.Data.genruntimeconfig.cache
+C:\Users\PC\Desktop\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\ref\RecyclingProject.Data.dll
+C:\Users\PC\Desktop\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\bin\Debug\net6.0\RecyclingProject.Data.deps.json
+C:\Users\PC\Desktop\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\bin\Debug\net6.0\RecyclingProject.Data.runtimeconfig.json
+C:\Users\PC\Desktop\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\bin\Debug\net6.0\RecyclingProject.Data.dll
+C:\Users\PC\Desktop\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\bin\Debug\net6.0\RecyclingProject.Data.pdb
+C:\Users\PC\Desktop\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\RecyclingProject.Data.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\RecyclingProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\RecyclingProject.Data.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\RecyclingProject.Data.AssemblyInfo.cs
+C:\Users\PC\Desktop\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\RecyclingProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\RecyclingProject.Data.dll
+C:\Users\PC\Desktop\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\refint\RecyclingProject.Data.dll
+C:\Users\PC\Desktop\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\RecyclingProject.Data.pdb
+C:\Users\PC\Desktop\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\RecyclingProject.Data.genruntimeconfig.cache
+C:\Users\PC\Desktop\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\ref\RecyclingProject.Data.dll
+C:\Users\dor\Desktop\לוחמים להייטק\פרוייקטים להגשה\FinalProject-Dor&Yoav\RecyclingProject\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\bin\Debug\net6.0\RecyclingProject.Data.deps.json
+C:\Users\dor\Desktop\לוחמים להייטק\פרוייקטים להגשה\FinalProject-Dor&Yoav\RecyclingProject\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\bin\Debug\net6.0\RecyclingProject.Data.runtimeconfig.json
+C:\Users\dor\Desktop\לוחמים להייטק\פרוייקטים להגשה\FinalProject-Dor&Yoav\RecyclingProject\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\bin\Debug\net6.0\RecyclingProject.Data.dll
+C:\Users\dor\Desktop\לוחמים להייטק\פרוייקטים להגשה\FinalProject-Dor&Yoav\RecyclingProject\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\bin\Debug\net6.0\RecyclingProject.Data.pdb
+C:\Users\dor\Desktop\לוחמים להייטק\פרוייקטים להגשה\FinalProject-Dor&Yoav\RecyclingProject\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\RecyclingProject.Data.csproj.AssemblyReference.cache
+C:\Users\dor\Desktop\לוחמים להייטק\פרוייקטים להגשה\FinalProject-Dor&Yoav\RecyclingProject\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\RecyclingProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dor\Desktop\לוחמים להייטק\פרוייקטים להגשה\FinalProject-Dor&Yoav\RecyclingProject\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\RecyclingProject.Data.AssemblyInfoInputs.cache
+C:\Users\dor\Desktop\לוחמים להייטק\פרוייקטים להגשה\FinalProject-Dor&Yoav\RecyclingProject\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\RecyclingProject.Data.AssemblyInfo.cs
+C:\Users\dor\Desktop\לוחמים להייטק\פרוייקטים להגשה\FinalProject-Dor&Yoav\RecyclingProject\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\RecyclingProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\dor\Desktop\לוחמים להייטק\פרוייקטים להגשה\FinalProject-Dor&Yoav\RecyclingProject\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\RecyclingProject.Data.dll
+C:\Users\dor\Desktop\לוחמים להייטק\פרוייקטים להגשה\FinalProject-Dor&Yoav\RecyclingProject\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\refint\RecyclingProject.Data.dll
+C:\Users\dor\Desktop\לוחמים להייטק\פרוייקטים להגשה\FinalProject-Dor&Yoav\RecyclingProject\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\RecyclingProject.Data.pdb
+C:\Users\dor\Desktop\לוחמים להייטק\פרוייקטים להגשה\FinalProject-Dor&Yoav\RecyclingProject\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\RecyclingProject.Data.genruntimeconfig.cache
+C:\Users\dor\Desktop\לוחמים להייטק\פרוייקטים להגשה\FinalProject-Dor&Yoav\RecyclingProject\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\ref\RecyclingProject.Data.dll
+C:\Users\dor\Desktop\לוחמים להייטק\פרוייקטים להגשה\FinalProject-Dor&Yoav\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\bin\Debug\net6.0\RecyclingProject.Data.deps.json
+C:\Users\dor\Desktop\לוחמים להייטק\פרוייקטים להגשה\FinalProject-Dor&Yoav\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\bin\Debug\net6.0\RecyclingProject.Data.runtimeconfig.json
+C:\Users\dor\Desktop\לוחמים להייטק\פרוייקטים להגשה\FinalProject-Dor&Yoav\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\bin\Debug\net6.0\RecyclingProject.Data.dll
+C:\Users\dor\Desktop\לוחמים להייטק\פרוייקטים להגשה\FinalProject-Dor&Yoav\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\bin\Debug\net6.0\RecyclingProject.Data.pdb
+C:\Users\dor\Desktop\לוחמים להייטק\פרוייקטים להגשה\FinalProject-Dor&Yoav\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\RecyclingProject.Data.csproj.AssemblyReference.cache
+C:\Users\dor\Desktop\לוחמים להייטק\פרוייקטים להגשה\FinalProject-Dor&Yoav\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\RecyclingProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dor\Desktop\לוחמים להייטק\פרוייקטים להגשה\FinalProject-Dor&Yoav\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\RecyclingProject.Data.AssemblyInfoInputs.cache
+C:\Users\dor\Desktop\לוחמים להייטק\פרוייקטים להגשה\FinalProject-Dor&Yoav\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\RecyclingProject.Data.AssemblyInfo.cs
+C:\Users\dor\Desktop\לוחמים להייטק\פרוייקטים להגשה\FinalProject-Dor&Yoav\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\RecyclingProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\dor\Desktop\לוחמים להייטק\פרוייקטים להגשה\FinalProject-Dor&Yoav\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\RecyclingProject.Data.dll
+C:\Users\dor\Desktop\לוחמים להייטק\פרוייקטים להגשה\FinalProject-Dor&Yoav\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\refint\RecyclingProject.Data.dll
+C:\Users\dor\Desktop\לוחמים להייטק\פרוייקטים להגשה\FinalProject-Dor&Yoav\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\RecyclingProject.Data.pdb
+C:\Users\dor\Desktop\לוחמים להייטק\פרוייקטים להגשה\FinalProject-Dor&Yoav\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\RecyclingProject.Data.genruntimeconfig.cache
+C:\Users\dor\Desktop\לוחמים להייטק\פרוייקטים להגשה\FinalProject-Dor&Yoav\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\ref\RecyclingProject.Data.dll
+C:\Users\PC\Downloads\RecyclingProject(1)\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\bin\Debug\net6.0\RecyclingProject.Data.deps.json
+C:\Users\PC\Downloads\RecyclingProject(1)\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\bin\Debug\net6.0\RecyclingProject.Data.runtimeconfig.json
+C:\Users\PC\Downloads\RecyclingProject(1)\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\bin\Debug\net6.0\RecyclingProject.Data.dll
+C:\Users\PC\Downloads\RecyclingProject(1)\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\bin\Debug\net6.0\RecyclingProject.Data.pdb
+C:\Users\PC\Downloads\RecyclingProject(1)\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\RecyclingProject.Data.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\RecyclingProject(1)\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\RecyclingProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\RecyclingProject(1)\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\RecyclingProject.Data.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\RecyclingProject(1)\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\RecyclingProject.Data.AssemblyInfo.cs
+C:\Users\PC\Downloads\RecyclingProject(1)\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\RecyclingProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\RecyclingProject(1)\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\RecyclingProject.Data.dll
+C:\Users\PC\Downloads\RecyclingProject(1)\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\refint\RecyclingProject.Data.dll
+C:\Users\PC\Downloads\RecyclingProject(1)\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\RecyclingProject.Data.pdb
+C:\Users\PC\Downloads\RecyclingProject(1)\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\RecyclingProject.Data.genruntimeconfig.cache
+C:\Users\PC\Downloads\RecyclingProject(1)\RecyclingProject\RecyclingProject.Client\RecyclingProject.Data\obj\Debug\net6.0\ref\RecyclingProject.Data.dll
